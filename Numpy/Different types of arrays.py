@@ -45,4 +45,6 @@ print(i)
 k = np.eye(4)  # Create a 4x4 identity matrix
 print(k)
 
-
+# creating an array fill with 5
+j = np.full((6,6),5)
+print(j)

@@ -5,11 +5,13 @@ a = np.array([1, 2, 3, 4, 5])
 print(a)    
 print(a.ndim)  # Number of dimensions
 print(a.shape)  # Shape of the array
+
 # Create a 2D array
 b = np.array([[1, 2, 3], [4, 5, 6]])
 print(b)    
 print(b.ndim)  # Number of dimensions
 print(b.shape)  # Shape of the array
+
 # Create a 3D array
 c = np.array([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])
 print(c)    
